@@ -1,0 +1,12 @@
+{
+  "name": "durablejs",
+  "version": "1.0.0",
+  "description": "A workflow engine to write durable functions in in JS TS",
+  "main": "src/index.ts",
+  "author": "Rohit Singh",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}

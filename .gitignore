@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript output directory
+dist/
+
+# Compiled JavaScript files
+*.js
+*.js.map
+
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (e.g., Visual Studio Code)
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Other files to ignore
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
